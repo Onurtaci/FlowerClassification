@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.exe.config
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.exe
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.pdb
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.exe
+C:\Users\onurt\source\repos\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.pdb
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.exe.config
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.exe
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\bin\Debug\FlowerClassification.pdb
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.AssemblyReference.cache
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.SuggestedBindingRedirects.cache
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.csproj.CoreCompileInputs.cache
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.exe
+D:\Ege University\3rd Semester\Data Structures\Projects\Proje-1\FlowerClassification\FlowerClassification\obj\Debug\FlowerClassification.pdb
